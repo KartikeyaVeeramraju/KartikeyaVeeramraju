@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-astronauts-artemis-nasagifs-LT6ZhPagaKp2LdVLfz">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/9302900/220190485-6808a4f1-4f23-4e12-a063-2e9faf7f1aa5.gif)
+
+
 ### Hi there 👋
 * 👂 My name is Kartikeya Veeramraju
 * 👩 Pronouns: He/Him

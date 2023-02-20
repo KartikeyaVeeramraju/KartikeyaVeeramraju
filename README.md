@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.youtube.com/watch?v=sI5Ftm1-jik](https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif)"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 ### Hi there 👋

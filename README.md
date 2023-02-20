@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-<p align="center">
-  <img src="https://giphy.com/gifs/computer-digital-after-effects-l1J9KU2KmTwzptMD6"/>
-</p>
-
+<iframe src="https://giphy.com/embed/LT6ZhPagaKp2LdVLfz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-astronauts-artemis-nasagifs-LT6ZhPagaKp2LdVLfz">via GIPHY</a></p>
 ### Hi there 👋
 * 👂 My name is Kartikeya Veeramraju
 * 👩 Pronouns: He/Him
